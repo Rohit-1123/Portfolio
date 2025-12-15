@@ -3,7 +3,7 @@
 This repository contains the source code for my personal portfolio website, built to showcase my projects, certifications, and skills in cybersecurity, cloud computing, and software development.
 
 **Live Website:**  
-https://rohit-1123.github.io/portfolio/
+https://rohit-1123.github.io/Portfolio/
 
 ---
 
