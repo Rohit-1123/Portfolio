@@ -1,5 +1,3 @@
-# Portfolio
-
 # Enugula Rohit — Portfolio Website
 
 This repository contains the source code for my personal portfolio website, built to showcase my projects, certifications, and skills in cybersecurity, cloud computing, and software development.
