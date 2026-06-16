@@ -723,6 +723,7 @@ body::before {
 }
 
 /* Responsive Design */
+/* Desktop */
 @media (max-width: 768px) {
     .theme-toggle {
         top: 1rem;
@@ -782,6 +783,7 @@ body::before {
     }
 }
 
+/* Mobile */
 @media (max-width: 480px) {
     .nav-list {
         flex-wrap: wrap;
